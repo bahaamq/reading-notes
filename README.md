@@ -6,7 +6,7 @@
 
 ### MindSet
 
-![Mindset](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset-500x200.jpg)
+![Mindset](https://teacherbooker.com/wp-content/uploads/2017/10/Blog-pic-growth-mindset.jpg)
 
 
 ***Grouth Mindset*** is to believe that there is no **limits** for your brain to learn anything new.
