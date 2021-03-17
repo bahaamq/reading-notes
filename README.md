@@ -5,7 +5,7 @@
 
 |   Assignment   |                   Link                        |
 |----------------|-----------------------------------------------|
-|    Read1       |  [The Coder's Computer](Read01.md)             |
+|    Read1       |  [The Coder's Computer](Read01.md)            |
 |    Read02      |   [MindSet](Read02.md)                        |
 |    Read02a     |   [Learning Markdown](Read02a.md)             |
 |    Read02b     |[Revisions and the Cloud](Read02b.md)          |
