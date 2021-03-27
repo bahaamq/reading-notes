@@ -3,6 +3,8 @@
 > Added By Bahaa.
 #### I'm Bahaa Qasem   , 24 years old , i am here to learn and improve myself. follow me on github [BahaaQasem](https://github.com/bahaamq) 
 
+#### This site contains my notes after do reading differnt topics.
+
 ## Code 102 Reading notes
 
 |   Assignment   |                   Link                            |
