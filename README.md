@@ -30,5 +30,18 @@
 |   Assignment   |                   Link                            |
 |----------------|---------------------------------------------------|
 |    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)|
-|    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)|
-
+|    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)        |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
+|                |                                                   |
