@@ -31,17 +31,16 @@
 |----------------|---------------------------------------------------|
 |    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)|
 |    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)        |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
-|                |                                                   |
+|    Read03      |                                                   |
+|    Read04      |                                                   |
+|    Read05      |                                                   |
+|    Read06      |                                                   |
+|    Read07      |                                                   |
+|    Read08      |                                                   |
+|    Read09      |                                                   |
+|    Read010     |                                                   |
+|    Read011     |                                                   |
+|    Read012     |                                                   |
+|    Read013     |                                                   |
+|    Read014     |                                                   |
+|    Read015     |                                                   |
