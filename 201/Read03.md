@@ -1,19 +1,18 @@
-Whitespace collapsing: if you add multi white spaces or empty lines next to each other the browser will only render one space.
+in HTML , there are threee types of lists , unordered , ordered , defination 
+Lists can be nested.
 
-adding strong tag to a word inside a paragraph means this word has higher importance.
+there are many ways to give value for width and height the most accurate is using "PX",
+percentage is used based on the width of the container.
+em is used based on text font size (width = ex:2em-> width will be *2 of font-size )
 
-when using abbr tag you can add tittle attribute to it to define the full definition ex < abbr tittle="doctor"> DR  </ abbr>
+min-max-width-height: are used to show better results when using differnt-devices , however they may cause overflow issue but it can be resolved by many ways ex: scroll
 
-CSS can be written inline,internal,external
+every element has a border you can choose the space betwen the element it self and the border by using padding but between the element and the container(parent) this is done by using margin.
 
-CSS selectors is a way to select HTML elements, ex: by tag name, class, id, universal.
+the difference between visibility:hidden and display:none is , visibility convert the element to empty white space however display:none remove it at all (no place)
 
-by using inherit property Css values can be inherited from the parent of the element.
+you can write less code by using jquery in comparision with javascript but sure you can do everything jquery can do by using javascript
 
-The advantages of using an external CSS file, is that you can use one file to multi Html pages, so it's faster, moreover, it's more organized and readable 
+chaining in jquery is to add multi methods to an element.
 
-You should write comments that explain what your code does to be easier to understand and its purpose is clear.
-
-a variable is used to save a value so that it can be used later, an array is used to save multi variables.
-
-comparison operators used to compare two values, logical operators can be used with comparison operators to compare multi values.
+document.ready is used to make sure that the dom tree is ready so html elements can be accessed through jquery.

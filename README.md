@@ -27,20 +27,21 @@
 
 ## Code 201 Reading notes.
 
-|   Assignment   |                   Link                            |
-|----------------|---------------------------------------------------|
-|    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)|
-|    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)        |
-|    Read03      |                                                   |
-|    Read04      |                                                   |
-|    Read05      |                                                   |
-|    Read06      |                                                   |
-|    Read07      |                                                   |
-|    Read08      |                                                   |
-|    Read09      |                                                   |
-|    Read010     |                                                   |
-|    Read011     |                                                   |
-|    Read012     |                                                   |
-|    Read013     |                                                   |
-|    Read014     |                                                   |
-|    Read015     |                                                   |
+|   Assignment   |                   Link                                 |
+|----------------|--------------------------------------------------------|
+|    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)     |
+|    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)             |
+|    Read03      |[HTML Lists, CSS Boxes, JS Control Flow](201/Read03.md) |
+|    Read04      |                                                        |
+|    Read05      |                                                        |
+|    Read05      |                                                        |
+|    Read06      |                                                        |
+|    Read07      |                                                        |
+|    Read08      |                                                        |
+|    Read09      |                                                        |
+|    Read010     |                                                        |
+|    Read011     |                                                        |
+|    Read012     |                                                        |
+|    Read013     |                                                        |
+|    Read014     |                                                        |
+|    Read015     |                                                        |
