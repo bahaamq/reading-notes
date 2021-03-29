@@ -11,8 +11,6 @@ every element has a border you can choose the space betwen the element it self a
 
 the difference between visibility:hidden and display:none is , visibility convert the element to empty white space however display:none remove it at all (no place)
 
-you can write less code by using jquery in comparision with javascript but sure you can do everything jquery can do by using javascript
+code is a series of instructions
 
-chaining in jquery is to add multi methods to an element.
-
-document.ready is used to make sure that the dom tree is ready so html elements can be accessed through jquery.
+Switch is a conditional statetement to check based on case, the default value is when no cases match the expectations.
