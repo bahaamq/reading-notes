@@ -33,7 +33,7 @@
 |    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)             |
 |    Read03      |[HTML Lists, CSS Boxes, JS Control Flow](201/Read03.md) |
 |    Read04      |                                                        |
-|    Read05      |                                                        |
+|    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
 |    Read05      |                                                        |
 |    Read06      |                                                        |
 |    Read07      |                                                        |
