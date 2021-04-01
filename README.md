@@ -32,7 +32,7 @@
 |    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)     |
 |    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)             |
 |    Read03      |[HTML Lists, CSS Boxes, JS Control Flow](201/Read03.md) |
-|    Read04      |                                                        |
+|    Read04      |[HTML Links, CSS Layout, JS Functions](201/Read04.md)   |
 |    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
 |    Read05      |                                                        |
 |    Read06      |                                                        |
