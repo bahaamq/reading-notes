@@ -34,8 +34,7 @@
 |    Read03      |[HTML Lists, CSS Boxes, JS Control Flow](201/Read03.md) |
 |    Read04      |[HTML Links, CSS Layout, JS Functions](201/Read04.md)   |
 |    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
-|    Read05      |                                                        |
-|    Read06      |                                                        |
+|    Read06      |[JS Object Literals; The DOM](201/Read06.md)            |
 |    Read07      |                                                        |
 |    Read08      |                                                        |
 |    Read09      |                                                        |
