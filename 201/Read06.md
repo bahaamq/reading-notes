@@ -1,4 +1,4 @@
-### Object...
+### *Object...
  A set of properties and methods that represent the model of something. 
  *Simple example :*  
 *Rectangle/width/height/area* 
@@ -8,7 +8,7 @@
 
 In object constructor notation you can create an instance of the object.
 
-## *Document object model (DOM)...
+### *Document object model (DOM)...
 
 When the browser loads it creates an object model of HTML elements. It has a dom tree that tells the browser how to structure the elements ..This dom tree data structure contains  
 Document node: which contains the whole HTML page  
@@ -35,7 +35,7 @@ If you add an empty paragraph in HTML and you want to add content to it through 
 **Untrusted data:** is any data that the user can add (control)Cross-site scripting (XSS) is when any user adding malicious codes in any field that has control over it. One way of defending against XSS is to validate data and limit what user can add.
 
 
-## The problem domain ...
+### *The problem domain ...
 
 *Problem domain* is the hardest part as you need to understand the idea of it  and how it works and how your software solution is going to be helpful for it, before writing your code, the problem is it's not easy to understand it, for example 
 - you may face understanding the requirements wrongly or misunderstand the problem,(requirements) or having less information this is possible, especially that if you know nothing about the problem or let's say the product you want to make a system for it. (software prototype) may help in this case.
@@ -44,7 +44,7 @@ If you add an empty paragraph in HTML and you want to add content to it through 
 \
 &nbsp;
 
-*** References : ***
+***References :***
  \
 https://security.stackexchange.com/questions/170900/what-is-untrusted-data/170906
 \
