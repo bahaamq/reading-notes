@@ -46,8 +46,10 @@ If you add an empty paragraph in HTML and you want to add content to it through 
 
 ***References :***
  \
-https://security.stackexchange.com/questions/170900/what-is-untrusted-data/170906
+[https://security.stackexchange.com/questions/170900/what-is-untrusted-data/170906](https://security.stackexchange.com/questions/170900/what-is-untrusted-data/170906)
 \
-https://youtu.be/--9K2-fz7ag
+[https://youtu.be/--9K2-fz7ag](https://youtu.be/--9K2-fz7ag)
 \
-https://dzone.com/articles/understanding-problem-domain
+[https://dzone.com/articles/understanding-problem-domain](https://dzone.com/articles/understanding-problem-domain)
+\
+Duckett JS book
