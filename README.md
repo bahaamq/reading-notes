@@ -36,7 +36,7 @@
 |    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
 |    Read06      |[JS Object Literals; The DOM](201/Read06.md)            |
 |    Read07      |                                                        |
-|    Read08      |                                                        |
+|    Read08      |[More CSS Layout](201/Read8.md)                         |
 |    Read09      |                                                        |
 |    Read010     |                                                        |
 |    Read011     |                                                        |
