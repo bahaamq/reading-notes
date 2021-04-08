@@ -38,7 +38,7 @@
 |    Read07      |                                                        |
 |    Read08      |[More CSS Layout](201/Read08.md)                        |
 |    Read09      |[Forms and Events](201/Read09.md)                       |
-|    Read010     |                                                        |
+|    Read010     |[JS Debugging](201/Read010.md)                          |
 |    Read011     |                                                        |
 |    Read012     |                                                        |
 |    Read013     |                                                        |
