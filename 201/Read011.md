@@ -23,3 +23,5 @@ Url
 To have special keywords you can make a brainstorming session, using researching tools that gives you related keywords, compare the keywords, map them for all pages and the more you enter page the more meaningful and have detailed meaning these keywords will be.
 
 ***Google Analytics*** is a great tool that analyzes user to know from where do they come what they are looking for. And if they leave from which page did they .
+
+>> Examples are token from the Duckett HTML book.
