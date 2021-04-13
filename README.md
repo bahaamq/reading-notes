@@ -40,7 +40,7 @@
 |    Read09      |[Forms and Events](201/Read09.md)                       |
 |    Read010     |[JS Debugging](201/Read010.md)                          |
 |    Read011     |[Assorted Topics](201/Read011.md)                       |
-|    Read012     |                                                        |
+|    Read012     |[HTML canvas & Chart.js](201/Read12.md)                 |
 |    Read013     |                                                        |
 |    Read014     |                                                        |
 |    Read015     |                                                        |
