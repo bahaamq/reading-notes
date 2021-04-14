@@ -42,5 +42,5 @@
 |    Read011     |[Assorted Topics](201/Read011.md)                       |
 |    Read012     |[HTML canvas & Chart.js](201/Read12.md)                 |
 |    Read013     |[Transforms,Transitions, and Animations](201/Read13.md) |
-|    Read014     |[Local Storage](201/Read14.md)                          |
-|    Read015     |                                                        |
+|    Read013b    |[Local Storage](201/Read13b.md)                         |
+|    Read014     |[What Google Learned About Teams](201/Read14.md)        |
