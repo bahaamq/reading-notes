@@ -35,7 +35,7 @@
 |    Read04      |[HTML Links, CSS Layout, JS Functions](201/Read04.md)   |
 |    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
 |    Read06      |[JS Object Literals; The DOM](201/Read06.md)            |
-|    Read07      |                                                        |
+|    Read07      |[HTML Tables; JS Constructor Functions](201/Read07.md)  |
 |    Read08      |[More CSS Layout](201/Read08.md)                        |
 |    Read09      |[Forms and Events](201/Read09.md)                       |
 |    Read010     |[JS Debugging](201/Read010.md)                          |
@@ -44,3 +44,31 @@
 |    Read013     |[Transforms,Transitions, and Animations](201/Read13.md) |
 |    Read013b    |[Local Storage](201/Read13b.md)                         |
 |    Read014     |[What Google Learned About Teams](201/Read14.md)        |
+
+
+
+\
+&nbsp;
+\
+&nbsp;
+
+
+## Code 301 Reading notes.
+
+|   Assignment   |                   Link                                 |
+|----------------|--------------------------------------------------------|
+|    Read01      |  []()                                                  |
+|    Read02      |  []()                                                  |
+|    Read03      |  []()                                                  |
+|    Read04      |  []()                                                  |
+|    Read05      |  []()                                                  |
+|    Read06      |  []()                                                  |
+|    Read07      |  []()                                                  |
+|    Read08      |  []()                                                  |
+|    Read09      |  []()                                                  |
+|    Read10      |  []()                                                  |
+|    Read11      |  []()                                                  |
+|    Read12      |  []()                                                  |
+|    Read13      |  []()                                                  |
+|    Read14      |  []()                                                  |
+|    Read15      |  []()                                                  |
