@@ -62,6 +62,7 @@
 |    Read03      | [React and Forms](301/Read03.md)                       |
 |    Read04      | [Putting it all together](301/Read05.md)               |
 |    Read07      |  [Node Js](301/Read06.md)                              |
+|    Read08      |  [Reading Rest](301/Read07.md)                         |
 |    Read08      |  []()                                                  |
 |    Read09      |  []()                                                  |
 |    Read10      |  []()                                                  |
