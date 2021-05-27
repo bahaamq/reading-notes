@@ -64,7 +64,7 @@
 |    Read07      |  [Node Js](301/Read06.md)                              |
 |    Read08      |  [Reading Rest](301/Read07.md)                         |
 |    Read08      |  [Readings: APIs](301/Read08.md)                       |
-|    Read09      |  []()                                                  |
+|    Read09      |  [FUNCTIONAL PROGRAMMING](301/Read09.md)               |
 |    Read10      |  []()                                                  |
 |    Read11      |  []()                                                  |
 |    Read12      |  []()                                                  |
