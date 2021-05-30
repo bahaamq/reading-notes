@@ -65,8 +65,8 @@
 |    Read08      |  [Reading Rest](301/Read07.md)                         |
 |    Read08      |  [Readings: APIs](301/Read08.md)                       |
 |    Read09      |  [FUNCTIONAL PROGRAMMING](301/Read09.md)               |
-|    Read10      |  []()                                                  |
-|    Read11      |  []()                                                  |
+|    Read10      |  [In memory storage](301/Read10.md)                    |
+|    Read11      |  [Authentication](301/Read11.md)                       |
 |    Read12      |  []()                                                  |
 |    Read13      |  []()                                                  |
 |    Read14      |  []()                                                  |
