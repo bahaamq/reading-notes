@@ -57,7 +57,7 @@
 
 |   Assignment   |                   Link                                 |
 |----------------|--------------------------------------------------------|
-|    Read01      |  []()                                                  |
+|    Read01      | [React and Components](301/Read01.md)                  |
 |    Read02      |  []()                                                  |
 |    Read03      | [React and Forms](301/Read03.md)                       |
 |    Read04      | [Putting it all together](301/Read05.md)               |
