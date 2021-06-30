@@ -82,10 +82,10 @@
 
 |   Assignment     |                   Link                            |
 |------------------|---------------------------------------------------|
-|    Read-1        |[Node Ecosystem, TDD, CI/CD](401/read (1).md)      |
-|    Read-2        |[Reading: Express](401/read (2).md)                |
+|    Read-1        |[Node Ecosystem, TDD, CI/CD](401/read1.md)         |
+|    Read-2        |[Reading: Express](401/read2.md)                   |
 |    Read-3        |                                                   |
-|    Read-4        |                                                   |
+|    Read-4        |[Data Modeling](401/read4.md)                      |
 |    Read-5        |                                                   |
 |    Read-6        |                                                   |
 |    Read-7        |                                                   |
