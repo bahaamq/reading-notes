@@ -86,7 +86,7 @@
 |    Read-2        |[Reading: Express](401/read2.md)                   |
 |    Read-3        |                                                   |
 |    Read-4        |[Data Modeling](401/read4.md)                      |
-|    Read-5        |                                                   |
+|    Read-5        |[Linked List](401/read5.md)                        |
 |    Read-6        |                                                   |
 |    Read-7        |                                                   |
 |    Read-8        |                                                   |
