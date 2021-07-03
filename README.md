@@ -84,7 +84,7 @@
 |------------------|---------------------------------------------------|
 |    Read-1        |[Node Ecosystem, TDD, CI/CD](401/read1.md)         |
 |    Read-2        |[Reading: Express](401/read2.md)                   |
-|    Read-3        |                                                   |
+|    Read-3        |[ Express REST API](401/read3.md)                  |
 |    Read-4        |[Data Modeling](401/read4.md)                      |
 |    Read-5        |[Linked List](401/read5.md)                        |
 |    Read-6        |[Authentication](401/read6.md)                     |
