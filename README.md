@@ -88,7 +88,7 @@
 |    Read-4        |[Data Modeling](401/read4.md)                      |
 |    Read-5        |[Linked List](401/read5.md)                        |
 |    Read-6        |[Authentication](401/read6.md)                     |
-|    Read-7        |                                                   |
+|    Read-7        |[Bearer Authorization](401/read7.md)               |  
 |    Read-8        |                                                   |
 |    Read-9        |                                                   |
 |    Read-10       |                                                   |
