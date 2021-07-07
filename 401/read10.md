@@ -1,0 +1,3 @@
+
+**Stack** is a *data structure* that designed to work as last in first out (last element pushed to the stack) the first element that should be popped from the stackA real example of it is nested queries in SQL databases so the nested one is executed first and then outer one then .... Also the back button in internet browsers or folderAll of its operations take O(1) as a time complexityQueue :  
+**Queue** Is a *data structure* that designed to work as first in first out ( first element enequed to the stack is the first element dequed)A real example on it : proceess management system which execute the processes starting from the first request.
