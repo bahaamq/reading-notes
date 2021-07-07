@@ -90,7 +90,7 @@
 |    Read-6        |[Authentication](401/read6.md)                     |
 |    Read-7        |[Bearer Authorization](401/read7.md)               |  
 |    Read-8        |[Access Control (ACL)](401/read8.md)               |
-|    Read-9        |                                                   |
+|    Read-9        |[SQL](401/read9.md)                                |
 |    Read-10       |                                                   |
 |    Read-11       |                                                   |
 |    Read-12       |                                                   |
