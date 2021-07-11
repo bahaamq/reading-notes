@@ -93,7 +93,7 @@
 |    Read-9        |[SQL](401/read9.md)                                |
 |    Read-10       |[Stack&Queue](401/read10.md)                       |
 |    Read-11       |[Event Driven Applications](401/read11.md)         |
-|    Read-12       |                                                   |
+|    Read-12       |[sOCKET IO](401/read12.md)                         |
 |    Read-13       |                                                   |
 |    Read-14       |                                                   |
 |    Read-15       |                                                   |
