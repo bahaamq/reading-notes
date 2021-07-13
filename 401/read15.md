@@ -1,12 +1,3 @@
-Hello I want to talk about what i understand about socket.io.
-Socket.IO is like Self closing Door , if anyone open it , it will automatically close*  ,,, as it gives a real time communication rather than normal http request as it's always waiting for any request to be happen so it can make a respone without asking it to do .. so for example lets assume that ww have a web page that has a page for users to send feedbacks ,,, and a page for admins to read user feedback the user establishing an event ,, which is already resgistered on the server(it was waiting the client to do this) (just Do it !) ,,, after that the server will accept the user request and will make an interaction by emitting this feedback on an event that was already waiting for this feedback in the admin page.
-
-.on : register an event 
-.emit : send an event 
-
-these are the main events there are some additional like those events which responsible in specifying the room or the name space , or those who sends to everyone expect someone that's provided by the library. 
-![client.server communication](https://miro.com/app/board/o9J_l6rYdRE=/)
-
 Trees
 -Node_  - A Tree node is a component which may contain it’s own values or null , and references to other nodes
 _Root_: parent , first one on the tree
