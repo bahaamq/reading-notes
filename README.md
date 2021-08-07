@@ -101,7 +101,7 @@
 |    Read-17       |[AWS: S3 and Lambda](401/read17.md)                |
 |    Read-18       |[Api,Dynamo and Lambda](401/read18.md)             |
 |    Read-19       |[AWS: Events](401/read19.md)                       |
-|    Read-20       |                                                   |
+|    Read-20       |[Component Based UI](401/read20.md)                |
 |    Read-21       |                                                   |
 |    Read-22       |                                                   |
 |    Read-23       |                                                   |
