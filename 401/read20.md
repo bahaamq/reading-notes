@@ -11,7 +11,7 @@ Usually, a framework tells us what to do. it has the best practice of doing thin
 
 *On the other hand, Framework is like buying a new house, you don’t have to deal with building problems, but you can’t choose how to sort your rooms because the house is already built. *A library is like building your home from scratch, you have the choice to make your house as you wish, with any architecture you like, you can sort your rooms in the way you like.
 
-![](https://miro.medium.com/max/60/1*tMJUTqe2dKlueiNU17IZug.png?q=20)
+https://sofienebk.medium.com/what-is-the-difference-between-a-framework-and-library-2b712a1a1c41
 
 Rendering: convert something to something ex : convert html element to a visual thing in the browser.
 
