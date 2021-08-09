@@ -103,7 +103,7 @@
 |    Read-19       |[AWS: Events](401/read19.md)                       |
 |    Read-20       |[Component Based UI](401/read20.md)                |
 |    Read-21       |[useState() Hook](401/read21.md)                   |
-|    Read-22       |                                                   |
+|    Read-22       |[Lifecycle/useEffect() Hook](401/read22.md)        |
 |    Read-23       |                                                   |
 |    Read-24       |                                                   |
 |    Read-25       |                                                   |
