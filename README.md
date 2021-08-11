@@ -104,7 +104,7 @@
 |    Read-20       |[Component Based UI](401/read20.md)                |
 |    Read-21       |[useState() Hook](401/read21.md)                   |
 |    Read-22       |[Lifecycle/useEffect() Hook](401/read22.md)        |
-|    Read-23       |                                                   |
+|    Read-23       |[Advanced State with Reducers](401/read23.md)      |
 |    Read-24       |                                                   |
 |    Read-25       |                                                   |
 |    Read-26       |                                                   |
