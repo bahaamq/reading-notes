@@ -106,7 +106,7 @@
 |    Read-22       |[Lifecycle/useEffect() Hook](401/read22.md)        |
 |    Read-23       |[Advanced State with Reducers](401/read23.md)      |
 |    Read-24       |[Hash Tables](401/read24.md)                       |
-|    Read-25       |[Context API](401/read24.md)                       |
+|    Read-25       |[Context API](401/read25.md)                       |
 |    Read-26       |                                                   |
 |    Read-27       |                                                   |
 |    Read-28       |                                                   |
