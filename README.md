@@ -109,7 +109,7 @@
 |    Read-25       |[Context API](401/read25.md)                       |
 |    Read-26       |[Reading: <Login /> and <Auth />](401/read26.md)   |
 |    Read-27       |                                                   |
-|    Read-28       |                                                   |
+|    Read-28       |[Implementation: Graphs](401/read28.md)            |
 |    Read-29       |                                                   |
 |    Read-30       |                                                   |
 |    Read-31       |                                                   |
