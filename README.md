@@ -110,7 +110,7 @@
 |    Read-26       |[Reading: <Login /> and <Auth />](401/read26.md)   |
 |    Read-27       |                                                   |
 |    Read-28       |[Implementation: Graphs](401/read28.md)            |
-|    Read-29       |                                                   |
+|    Read-29       |[Application state with redux](401/read29.md)      |
 |    Read-30       |                                                   |
 |    Read-31       |                                                   |
 |    Read-32       |                                                   |
