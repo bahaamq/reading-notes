@@ -113,7 +113,7 @@
 |    Read-29       |[Application state with redux](401/read29.md)      |
 |    Read-30       |[Redux - Combined Reducers](401/read30.md)         |
 |    Read-31       |                                                   |
-|    Read-32       |                                                   |
+|    Read-32       |[Redux - Additional Topics](401/read32.md)         |
 |    Read-33       |                                                   |
 |    Read-34       |                                                   |
 |    Read-35       |                                                   |
