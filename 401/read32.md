@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+
 
 1.  What’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?
 I think using thunk middleware , since we are saying on application  start so the states are empty and since we are dealing with redux to give the states something to be saved before despatching we can using thunk ,,, example using it to make a get request for third party api and since it has access to dispatch we can send the results to dispatch function so yeah we can have an initial value to state onload.
