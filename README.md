@@ -29,8 +29,8 @@
 
 |   Assignment   |                   Link                                 |
 |----------------|--------------------------------------------------------|
-|    Read01      |  [Introductory HTML and JavaScript](201/Read01.md)     |
-|    Read02      |  [Basics of HTML, CSS & JS](201/Read02.md)             |
+|    Read01      |[Introductory HTML and JavaScript](201/Read01.md)       |
+|    Read02      |[Basics of HTML, CSS & JS](201/Read02.md)               |
 |    Read03      |[HTML Lists, CSS Boxes, JS Control Flow](201/Read03.md) |
 |    Read04      |[HTML Links, CSS Layout, JS Functions](201/Read04.md)   |
 |    Read05      |[Basics of HTML, CSS & JS](201/Read05.md)               |
@@ -58,7 +58,6 @@
 |   Assignment   |                   Link                                 |
 |----------------|--------------------------------------------------------|
 |    Read01      | [React and Components](301/Read01.md)                  |
-|    Read02      |  []()                                                  |
 |    Read03      | [React and Forms](301/Read03.md)                       |
 |    Read04      | [Putting it all together](301/Read05.md)               |
 |    Read07      |  [Node Js](301/Read06.md)                              |
@@ -67,7 +66,6 @@
 |    Read09      |  [FUNCTIONAL PROGRAMMING](301/Read09.md)               |
 |    Read10      |  [In memory storage](301/Read10.md)                    |
 |    Read11      |  [Authentication](301/Read11.md)                       |
-|    Read12      |  [](301/Read12.md)                                     |
 |    Read12      |  [CRUD](301/Read13.md)                                 |
 
 
@@ -108,20 +106,9 @@
 |    Read-24       |[Hash Tables](401/read24.md)                       |
 |    Read-25       |[Context API](401/read25.md)                       |
 |    Read-26       |[Reading: <Login /> and <Auth />](401/read26.md)   |
-|    Read-27       |                                                   |
 |    Read-28       |[Implementation: Graphs](401/read28.md)            |
 |    Read-29       |[Application state with redux](401/read29.md)      |
 |    Read-30       |[Redux - Combined Reducers](401/read30.md)         |
-|    Read-31       |                                                   |
 |    Read-32       |[Redux - Additional Topics](401/read32.md)         |
-|    Read-33       |                                                   |
-|    Read-34       |                                                   |
-|    Read-35       |                                                   |
-|    Read-36       |                                                   |
-|    Read-37       |                                                   |
-|    Read-38       |                                                   |
-|    Read-39       |                                                   |
-|    Read-40       |                                                   |
-|    Read-41       |                                                   |
-|    Read-42       |                                                   |
+
 
